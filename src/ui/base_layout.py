@@ -57,11 +57,13 @@ def style_base_layout():
                 font-size: 2rem !important;
                 line-height: 0.9 !important;
                 margin-bottom: 0rem !important;
+                color: #2D2D2D !important;
                 
             }
             
             h3, h4, p {
                 font_family: "Outfit", sans-serif;
+                color: #2D2D2D !important;
                 
             }
             
